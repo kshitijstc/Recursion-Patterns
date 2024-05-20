@@ -1,3 +1,7 @@
+// Funda
+// Return TRUE OR FALSE
+// avoid further recursion calls if you get true
+
 #include<bits/stdc++.h>
 using namespace std;
 
