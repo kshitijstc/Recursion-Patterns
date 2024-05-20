@@ -1,3 +1,9 @@
+// Funda  
+// return 0
+// return 1
+// add l+r
+
+
 #include<bits/stdc++.h>
 using namespace std;
 
